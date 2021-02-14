@@ -1,0 +1,39 @@
+{
+  "platform": "android",
+  "real_device": false,
+  "port": "4723",
+  "report_dir_name": "allure",
+  "android_config": {
+    "appPackage": "com.swaglabsmobileapp",
+    "appActivity": "MainActivity",
+    "automationName": "UiAutomator2",
+    "platformName": "android",
+    "deviceName": "MyDevice",
+    "newCommandTimeout": 60
+  },
+  "iOS_config": {
+    "platformName": "iOS",
+    "platformVersion": "14.3",
+    "deviceName": "iPhone 11 Pro Max",
+    "automationName": "XCUITest",
+    "bundleId": "com.saucelabs.SwagLabsMobileApp",
+    "noReset": "true",
+    "useNewWDA": "false",
+    "fullReset": "false",
+    "isHeadless": "false",
+    "newCommandTimeout": 60
+  },
+  "iOS_device_config": {
+    "platformName": "iOS",
+    "platformVersion": "14.3",
+    "automationName": "XCUITest",
+    "bundleId": "com.saucelabs.SwagLabsMobileApp",
+    "deviceName": "YOUR DEVICE NAME",
+    "udid": "YOUR UDID",
+    "xcodeOrgId": "YOUR XCODE",
+    "xcodeSigningId": "iPhone Developer",
+    "noReset": "true",
+    "useNewWDA": "false",
+    "fullReset": "false"
+  }
+}

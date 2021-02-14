@@ -1,0 +1,9 @@
+allure-behave==2.8.33
+allure-pytest==2.8.33
+allure-python-commons==2.8.33
+Appium-Python-Client==1.0.2
+behave==1.2.6
+lxml==4.6.2
+Pillow==8.1.0
+python-resize-image==1.1.19
+selenium==3.141.0

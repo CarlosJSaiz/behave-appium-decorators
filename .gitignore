@@ -1,0 +1,5 @@
+.DS_Store
+allure
+.vscode
+__pycache__/
+*.pyc
